@@ -16,7 +16,7 @@ Olá, eu sou a Thali! 👩🏻‍💻
 
 🍺 Atualmente, atuo como **Engenheira de Qualidade de Software na AB-Inbev**, com foco em automação e melhoria contínua.
 
-💡 Tenho experiência sólida em **automação frontend e backend**. Liderei a migração de testes do Robot Framework para o **Playwright**, além de já ter atuado com diversas ferramentas e linguagens de testes automatizados.
+💡 Tenho experiência sólida em **automação frontend e backend**. Participei da migração de testes do Robot Framework para o **Playwright**, além de já ter atuado com diversas ferramentas e linguagens de testes automatizados.
 
 🧠 Sou apaixonada por garantir qualidade, otimizar processos, e principalmente, cuidar das pessoas envolvidas em cada etapa do desenvolvimento. 
 
